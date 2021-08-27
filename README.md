@@ -1,6 +1,15 @@
 # Web stuff
 *Here are some cool things to do in Web. I've made this repo as a memo because i'm lazy.*
 
+## Button Glowing Border Effect
+Some CSS to customize your buttons.
+
+Advantages :
+    Easy to make
+
+Disadvantages
+    To be done in last
+
 ## Dropdown Card Menu
 Some code which made a perfect dropdown card menu.
 You've got a nice profile picture, some texte as Name and a subtitle for the person.
