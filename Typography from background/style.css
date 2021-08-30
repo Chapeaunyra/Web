@@ -20,6 +20,7 @@ h1 {
     text-align: center;
     background: url('bg.jpg');
     background-attachment: fixed;
+    background-clip: border-box;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -32,6 +33,5 @@ h1::before {
     z-index: -1;
     text-shadow: -5px 5px 20px #000,
                 -10px 10px 30px #000,
-                -20px 15px 40px #000,
-                -25px 20px 50px #000;
+                -20px 15px 40px #000;
 }
